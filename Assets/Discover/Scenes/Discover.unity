@@ -1273,6 +1273,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DiscoverCameraRig
       objectReference: {fileID: 0}
+    - target: {fileID: 1698887779236366239, guid: 6f4db04e8e6005c4b8cef6b721c3fff5, type: 3}
+      propertyPath: requestScenePermissionOnStartup
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
